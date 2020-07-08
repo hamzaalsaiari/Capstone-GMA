@@ -23,7 +23,7 @@ The default admin credentials are:
 The users are created based on the PI and Co-PI name from the excel file
 Once this is done then each user account can be logged in to with the format
 
-- **email**: <FirstnameLastname>@users.com
+- **email**: FirstnameLastname@users.com
 - **password**: 1234567
   
 (example if there is user with name Michael Scott then the email will be MichaelScott@users.com>
