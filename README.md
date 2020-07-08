@@ -32,7 +32,7 @@ Once this is done then each user account can be logged in to with the format
 
 the .env file contains the following:
 
-MONGODB_URI: The link to the MongoDB database. Change this if you wish to use another database. 
-PORT: The port on which the app starts in. Do not change. 
-SECRET: The key which is used to sign JSON Web Tokens when users log in
+- **MONGODB_URI**: The link to the MongoDB database. Change this if you wish to use another database. 
+- **PORT**: The port on which the app starts in. Do not change. 
+- **SECRET**: The key which is used to sign JSON Web Tokens when users log in
 
