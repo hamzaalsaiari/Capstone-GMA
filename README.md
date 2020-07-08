@@ -17,8 +17,8 @@ npm run db
 This will delete all data from the database and add 20 grants and 20 users from the excel file and an admin account.
 The default admin credentials are:
 
-email admin1@admins.com
-password 1234567
+email: admin1@admins.com
+password: 1234567
 
 The users are created based on the PI and Co-PI name from the excel file
 Once this is done then each user account can be logged in to with the format
